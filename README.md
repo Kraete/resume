@@ -1,4 +1,4 @@
-# Brendon A. Kay résumé
+# Alex Hubbard Resume
 
 Forked from: https://git.quentindawans.com/quent/resume
 
